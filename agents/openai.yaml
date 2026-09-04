@@ -1,0 +1,4 @@
+interface:
+  display_name: "個人 IP 知識庫建構器"
+  short_description: "建立及整理個人 IP 知識庫，支援職涯展示、內容素材、私密反思及多帳號管理"
+  default_prompt: "使用 $personal-ip-vault-builder，按我的用途和私隱選擇建立或整理個人 IP Vault，沿用已確認決定並驗證結構。"
